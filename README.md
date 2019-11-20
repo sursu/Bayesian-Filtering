@@ -6,7 +6,7 @@ This repo contains some demos which accompany the [Bayesian Filtering & Smoothin
 
 Along with the original code provided with the book (see link above) I have included the Python code.
 
-To view Jupyter notebooks in the cloud, simply press the Binder button below, wait a few moments for the requirements to be fulfilled and then navigate to the desired demo file.
+To view and execute the Jupyter notebooks in the cloud, simply press the Binder button below, wait a few moments for the requirements to be fulfilled and then navigate to the desired demo file.
 
 ---
 All the errors in the Python notebooks and scripts are obviously mine.
