@@ -2,7 +2,7 @@
 
 # Code for Bayesian Filtering & Smoothing
 
-This repo contains some demos which accompany the [Bayesian Filtering & Smoothing](https://users.aalto.fi/~ssarkka/pub/cup_book_online_20131111.pdf) by Simo Särkkä.
+This repo contains some demos which accompany the excellent [Bayesian Filtering & Smoothing](https://users.aalto.fi/~ssarkka/pub/cup_book_online_20131111.pdf) book by Simo Särkkä.
 
 Along with the original code provided with the book (available on
 the book’s web page: https://www.cambridge.org/sarkka) I have included the Python code.
